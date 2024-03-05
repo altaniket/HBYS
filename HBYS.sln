@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBYS.DAL", "HBYS.DAL\HBYS.DAL.csproj", "{2AA37538-D210-4F50-BF26-25E2DBDF0365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBYS.BLL", "HBYS.BLL\HBYS.BLL.csproj", "{3A492D16-569D-4F94-AB4B-C19A67A5F8DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBYS.UI_MVC", "HBYS.UI_MVC\HBYS.UI_MVC.csproj", "{E2BD60EC-7357-4C20-AE16-1EBEBB229C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA37538-D210-4F50-BF26-25E2DBDF0365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA37538-D210-4F50-BF26-25E2DBDF0365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA37538-D210-4F50-BF26-25E2DBDF0365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA37538-D210-4F50-BF26-25E2DBDF0365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A492D16-569D-4F94-AB4B-C19A67A5F8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A492D16-569D-4F94-AB4B-C19A67A5F8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A492D16-569D-4F94-AB4B-C19A67A5F8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A492D16-569D-4F94-AB4B-C19A67A5F8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BD60EC-7357-4C20-AE16-1EBEBB229C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BD60EC-7357-4C20-AE16-1EBEBB229C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BD60EC-7357-4C20-AE16-1EBEBB229C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BD60EC-7357-4C20-AE16-1EBEBB229C61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC2EEAE4-A5BB-4085-A336-DB2C17B0EFD7}
+	EndGlobalSection
+EndGlobal
